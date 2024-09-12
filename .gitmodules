@@ -1,0 +1,75 @@
+[submodule "sitzprobe"]
+	path = sitzprobe
+	url = https://github.com/niftynei/sitzprobe.git
+[submodule "graphql"]
+	path = graphql
+	url = https://github.com/nettijoe96/c-lightning-graphql.git
+[submodule "jwt-factory"]
+	path = jwt-factory
+	url = https://github.com/nettijoe96/jwt-factory.git
+[submodule "lightning-qt"]
+	path = lightning-qt
+	url = https://github.com/darosior/pylightning-qt.git
+[submodule "trustedcoin"]
+	path = trustedcoin
+	url = https://github.com/fiatjaf/trustedcoin.git
+[submodule "webhook"]
+	path = webhook
+	url = https://github.com/fiatjaf/lightningd-webhook.git
+[submodule "btcli4j"]
+	path = btcli4j
+	url = https://github.com/clightning4j/btcli4j.git
+[submodule "go-lnmetrics.reporter"]
+	path = go-lnmetrics.reporter
+	url = https://github.com/LNOpenMetrics/go-lnmetrics.reporter.git
+[submodule "poncho"]
+	path = poncho
+	url = https://github.com/fiatjaf/poncho
+[submodule "circular"]
+	path = circular
+	url = https://github.com/giovannizotta/circular.git
+[submodule "holdinvoice"]
+	path = holdinvoice
+	url = https://github.com/daywalker90/holdinvoice.git
+[submodule "sling"]
+	path = sling
+	url = https://github.com/daywalker90/sling
+[submodule "summars"]
+	path = summars
+	url = https://github.com/daywalker90/summars.git
+[submodule "watchtower-client"]
+	path = watchtower-client
+	url = https://github.com/talaia-labs/rust-teos
+[submodule "cln-ntfy"]
+	path = cln-ntfy
+	url = https://github.com/yukibtc/cln-ntfy.git
+[submodule "bolt12-prism"]
+	path = bolt12-prism
+	url = https://github.com/gudnuf/bolt12-prism.git
+[submodule "clnrod"]
+	path = clnrod
+	url = https://github.com/daywalker90/clnrod.git
+[submodule "c-lightning-events"]
+	path = c-lightning-events
+	url = https://github.com/rbndg/c-lightning-events
+[submodule "Lightning-Invoice-Queue"]
+	path = Lightning-Invoice-Queue
+	url = https://github.com/rbndg/Lightning-Invoice-Queue
+[submodule "listmempoolfunds"]
+	path = listmempoolfunds
+	url = https://github.com/andrewtoth/listmempoolfunds
+[submodule "NLoop"]
+	path = NLoop
+	url = https://github.com/bitbankinc/NLoop
+[submodule "paythrough"]
+	path = paythrough
+	url = https://github.com/andrewtoth/paythrough
+[submodule "c-lightning-pruning-plugin"]
+	path = c-lightning-pruning-plugin
+	url = https://github.com/Start9Labs/c-lightning-pruning-plugin
+[submodule "ln-address-pay"]
+	path = ln-address-pay
+	url = https://github.com/nosedam/ln-address-pay
+[submodule "torq-plugin"]
+	path = torq-plugin
+	url = https://github.com/lncapital/torq-cln-plugin

@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "cln-historian"
+version = "0.1.0"
+description = "A plugin to store historical Lightning Network gossip in a database."
+authors = ["Christian Decker <decker@blockstream.io>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pyln-client = "0.11.1"
+
+[tool.poetry.dev-dependencies]
+pyln-testing = "0.11.1"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest-timeout = "^2.1.0"
+pytest-rerunfailures = "^10.3"
+pytest-xdist = "^3.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
